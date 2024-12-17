@@ -1,0 +1,67 @@
+_repo: Adobe-days-b-being-the-truthful-narrative-of-the-events-in-the-life-of-a-California-girl-on-a__74799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bixby Smith, Sarah
+    aliases:
+    - Smith, Sarah Bixby
+    - Smith, Sarah Hathaway Bixby
+    - Bixby-Smith, Sarah
+    birthdate: 1871
+    deathdate: 1935
+    gutenberg_agent_id: '57652'
+    url: http://www.gutenberg.org/2009/agents/57652
+    wikipedia: https://en.wikipedia.org/wiki/Sarah_Bixby_Smith
+description: ''
+gutenberg_issued: '2024-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74799'
+language: en
+pgterms:marc904: https://archive.org/details/adobedaysbeingtr0000bixb_p3f3/mode/2up
+pgterms:marc905: 20230811050749bixbysmith
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Carla Foust, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aCedar Rapids :$bThe Torch Press, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- California'
+- !lcsh 'Urbanization -- California'
+- !lcsh 'Real estate development -- California'
+- !lcsh 'Mines and mineral resources -- California'
+- !lcsh 'Ethnic groups -- California'
+- !lcsh 'Women -- California'
+- !lcsh 'Bixby Smith, Sarah, 1871-1935 -- Childhood and youth'
+- !lcsh 'Sheep ranches -- California'
+- !lcsh 'Frontier and pioneer life -- California -- Los Angeles'
+- !lcsh 'Los Angeles (Calif.) -- Biography'
+- !lcsh 'Los Angeles (Calif.) -- History'
+- !lcc 'F850.5'
+- GITenberg
+summary: 'A native Californian, Sarah Hathaway Bixby Smith (1871-1935) was born at
+  her family''s sheep ranch near San Juan Bautista, where she lived until the family
+  moved to Los Angeles some six years later. Her father, Llewellyn Bixby, had left
+  Maine to settle in the West in 1851, and he and his brothers became one of southern
+  California''s most influential families. Adobe days (1925) is Mrs. Smith''s account
+  of her early childhood on the ranch and trips east to visit relatives in Maine,
+  girlhood in Los Angeles, visits to Los Cerritos and Los Alamitos ranches, and her
+  education in Los Angeles public schools and at Pomona and Wellesley Colleges. She
+  supplements this with the life of her father, Llewellyn Bixby: his journey to California
+  via Panama and months as a prospector at the Volcano Diggings, cattle and sheep
+  drives across country, and real estate investments in Los Angeles and neighboring
+  counties. More generally, she discusses the role of Mexican and Chinese servants
+  and other aspects of housekeeping and childrearing, sheep husbandry and the wool
+  business, Los Angeles''s growth, the history of Southern California under the Spanish,
+  and the evolution of Pasadena, Riverside, Anaheim, and San Bernardino.'
+title: 'Adobe days : $b being the truthful narrative of the events in the life of
+  a California girl on a sheep ranch and in El Pueblo de Nuestra Señora de Los Angeles
+  while it was yet a small and humble town; together with an account of how three
+  young men from Maine in eighteen hundred and fifty-three drove sheep and cattle
+  across the plains, mountains and deserts from Illinois to the Pacific coast; and
+  the strange prophecy of Admiral Thatcher about San Pedro harbor'
+url: http://www.gutenberg.org/ebooks/74799
